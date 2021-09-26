@@ -14,7 +14,9 @@ This process was completed on a Windows 10 system, with  Python 3.9.0, Jupyter N
 This involved downloading the data from the link provided and importing it into Spyder IDE for cleaning and testing with matplotlib. Columns with irrelevant data were dropped, n/a values were removed, and column names were renamed to simpler forms for easier callback later. Once this was completed, some tests were run in Spyder with both the seaborn and matplotlib package to experiment with different methods of graphing. This was later entered into Jupyter Notebook for easier editing with the graphs. 
 
 #### 2.	Completing basic analysis of the data with the package matplotlib.
-Comparisons graphed involved considering the top offenses categorized by the gender of the offender, the top offenses categorized by the race of the offender, and graphs depicting the results of the arrests; whether charges were pressed, charges were re-considered and revisited, or the charges were dropped below a felony. This will be updated next week with the completion and polishing of the graphs seen in the attached file.  
+Comparisons graphed involved considering the top offenses categorized by the gender of the offender, the top offenses categorized by the race of the offender, and graphs depicting the results of the arrests; whether charges were pressed, charges were re-considered and revisited, or the charges were dropped below a felony. This will be updated next week with the completion and polishing of the graphs seen in the attached file.
+
+The intake file was pushed to Github remotely, and is approximately 60 mb in size. A file containing the code is available for  both Spyder IDE and Jupyter Notebook for users to pick the IDE they wish to use to replicate the process above. 
 
 ## Visualizations (these descriptions will be edited in next week when presentations are finalized)
 - Figure 1; Top 4 Offenses committed by Gender
