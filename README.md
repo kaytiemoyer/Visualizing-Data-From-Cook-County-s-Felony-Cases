@@ -19,10 +19,11 @@ Comparisons plotted involved considering the top offenses categorized by the gen
 The intake file was pushed to Github remotely, and is approximately 60 mb in size. A file containing the code is available for  both Spyder IDE and Jupyter Notebook for users to pick the IDE they wish to use to replicate the process above. 
 
 ## Visualizations (these descriptions will be edited in next week when presentations are finalized)
-- Figure 1; Top 4 Offenses committed by Gender
-- Figure 2; Top 4 Offenses committed by Race
-- Figure 3; Results of the Reviewal Cases
-- Figure 4, 5, 6; Total counts of reported gender, race and review cases 
+- Figure 1; Highest Reported Felonies by Gender - A comparison of the four most reported felony arrest categories, grouped by reported gender. 
+- Figure 2; Total Count of Felonies by Gender - A comparison of the total felony arrest count, grouped by reported gender. 
+- Figure 3; Highest Reported Felonies by Ethnicity - A stacked bar chart that illustrates which ethnic group was reported the most in the four most reported felony arrest categories, grouped by reported ethnicity. 
+- Figure 4; Total Count of Felonies by Ethnic Group - A comparison of which ethnic group was the most reported offender for the total felony arrest count, grouped by ethnicity. 
+- Figure 5; Results of Reviewal Cases - A comparison of the result of all the reported felony arrests, grouped by the result. 
 
 
 
